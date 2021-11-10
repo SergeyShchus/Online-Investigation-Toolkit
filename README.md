@@ -9,6 +9,8 @@
 
 - [**Bellingcat’s Online Investigation Toolkit**](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit#heading=h.po9n93ahppok)
 
+- [**Geospatial Companies**](https://github.com/SergeyShchus/Online-Investigation-Toolkit/blob/master/Best_geospatial_companies-main/README.md)
+
 - [**A Beginner's Guide To Flight Tracking**](https://www.bellingcat.com/resources/how-tos/2019/10/15/a-beginners-guide-to-flight-tracking/)
 
 - [**google-hacking-database**](https://www.exploit-db.com/google-hacking-database)
