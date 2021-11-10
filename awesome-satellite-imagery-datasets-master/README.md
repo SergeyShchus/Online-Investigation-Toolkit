@@ -193,6 +193,9 @@ Local climate zone classification, 17 categories (10 urban e.g. compact high-ris
 21 land cover categories from agricultural to parkinglot, 100 chips per class, aerial imagery (0.30m res.), Paper: [Yang & Newsam 2010](https://www.researchgate.net/publication/221589425_Bag-of-visual-words_and_spatial_extensions_for_land-use_classification)   
 
 
+- [**WorldCover **](https://viewer.esa-worldcover.org/worldcover/?language=en&bbox=-6.359900762258814,48.62312066711158,7.135137259678837,53.455226265838974&overlay=false&bgLayer=MapBox_Satellite&date=2021-11-10&layer=WORLDCOVER_2020_MAP)
+Agro land cover category
+
 ## 5. Other Focus / Multiple Tasks
 
 - [**IEEE Data Fusion Contest 2020**](http://www.grss-ieee.org/community/technical-committees/data-fusion/) *(IEEE & TUM, Mar 2020)*  
