@@ -1,7 +1,7 @@
 # Online-Investigation-Toolkit [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
  
 
-![](figures/header_img.jpg)  
+![](https://github.com/SergeyShchus/Online-Investigation-Toolkit/blob/master/awesome-satellite-imagery-datasets-master/figures/header_img.jpg)  
 
 
 
