@@ -10,7 +10,7 @@
 - :earth_americas: [**Bellingcat’s Online Investigation Toolkit**](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit#heading=h.po9n93ahppok)
 
 
-![](https://github.com/SergeyShchus/Online-Investigation-Toolkit/blob/master/awesome-satellite-imagery-datasets-master/figures/header_img.jpg)  
+![](https://github.com/SergeyShchus/Online-Investigation-Toolkit/blob/master/Bellingcat/image.png)  
 
 
 - :earth_americas: [**Geospatial Companies**](https://github.com/SergeyShchus/Online-Investigation-Toolkit/blob/master/Best_geospatial_companies-main/README.md)
