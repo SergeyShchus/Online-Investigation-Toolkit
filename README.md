@@ -5,7 +5,7 @@
 
 
 
-- :earth_americas: [**Satellite Imagery Datasets**](https://github.com/SergeyShchus/Online-Investigation-Toolkit/edit/master/satellite-imagery-datasets/README.md)
+- :earth_americas: [**Satellite Imagery Datasets**](https://github.com/SergeyShchus/Online-Investigation-Toolkit/blob/master/satellite-imagery-datasets/README.md)
 
 - :earth_americas: [**Bellingcat’s Online Investigation Toolkit**](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit#heading=h.po9n93ahppok)
 
