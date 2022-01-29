@@ -1,4 +1,4 @@
-# Online-Investigation-Toolkit [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Online Investigation Toolkit and not only
  
 
 ![](https://github.com/SergeyShchus/Online-Investigation-Toolkit/blob/master/awesome-satellite-imagery-datasets/figures/header_img.jpg)  
