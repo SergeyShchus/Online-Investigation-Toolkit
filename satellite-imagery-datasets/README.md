@@ -1,4 +1,4 @@
-# Awesome Satellite Imagery Datasets [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Satellite Imagery Datasets [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 List of aerial and satellite imagery datasets with annotations for computer vision and deep learning. Newest datasets at the top of each category (Instance segmentation, object detection, semantic segmentation, scene classification, other).   
 

@@ -5,7 +5,7 @@
 
 
 
-- :earth_americas: [**Awesome Satellite Imagery Datasets**](https://github.com/SergeyShchus/Online-Investigation-Toolkit/edit/master/awesome-satellite-imagery-datasets-master/README.md)
+- :earth_americas: [**Satellite Imagery Datasets**](https://github.com/SergeyShchus/Online-Investigation-Toolkit/edit/master/awesome-satellite-imagery-datasets-master/README.md)
 
 - :earth_americas: [**Bellingcat’s Online Investigation Toolkit**](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit#heading=h.po9n93ahppok)
 
@@ -17,8 +17,8 @@
 
 - :earth_americas: [**A Beginner's Guide To Flight Tracking**](https://www.bellingcat.com/resources/how-tos/2019/10/15/a-beginners-guide-to-flight-tracking/)
 
-- :earth_americas: [**google-hacking-database**](https://www.exploit-db.com/google-hacking-database)
+- :earth_americas: [**Google hacking database**](https://www.exploit-db.com/google-hacking-database)
 
-- :earth_americas: [**awesome-maps-ukraine**](https://github.com/SergeyShchus/Online-Investigation-Toolkit/tree/master/awesome-maps-ukraine)
+- :earth_americas: [**Maps Ukraine**](https://github.com/SergeyShchus/Online-Investigation-Toolkit/tree/master/awesome-maps-ukraine)
 
-- :earth_americas: [**Awesome GIS**](https://github.com/SergeyShchus/Online-Investigation-Toolkit/tree/master/awesome-gis)
+- :earth_americas: [**GIS Packages**](https://github.com/SergeyShchus/Online-Investigation-Toolkit/tree/master/awesome-gis)
