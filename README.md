@@ -1,11 +1,11 @@
 # Online Investigation Toolkit and not only
  
 
-![](https://github.com/SergeyShchus/Online-Investigation-Toolkit/blob/master/awesome-satellite-imagery-datasets/figures/header_img.jpg)  
+![](https://github.com/SergeyShchus/Online-Investigation-Toolkit/blob/master/satellite-imagery-datasets/figures/header_img.jpg)  
 
 
 
-- :earth_americas: [**Satellite Imagery Datasets**](https://github.com/SergeyShchus/Online-Investigation-Toolkit/edit/master/awesome-satellite-imagery-datasets-master/README.md)
+- :earth_americas: [**Satellite Imagery Datasets**](https://github.com/SergeyShchus/Online-Investigation-Toolkit/edit/master/satellite-imagery-datasets-master/README.md)
 
 - :earth_americas: [**Bellingcat’s Online Investigation Toolkit**](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit#heading=h.po9n93ahppok)
 
@@ -19,6 +19,6 @@
 
 - :earth_americas: [**Google hacking database**](https://www.exploit-db.com/google-hacking-database)
 
-- :earth_americas: [**Maps Ukraine**](https://github.com/SergeyShchus/Online-Investigation-Toolkit/tree/master/awesome-maps-ukraine)
+- :earth_americas: [**Maps Ukraine**](https://github.com/SergeyShchus/Online-Investigation-Toolkit/tree/master/maps-ukraine)
 
-- :earth_americas: [**GIS Packages**](https://github.com/SergeyShchus/Online-Investigation-Toolkit/tree/master/awesome-gis)
+- :earth_americas: [**GIS Packages**](https://github.com/SergeyShchus/Online-Investigation-Toolkit/tree/master/gis)
