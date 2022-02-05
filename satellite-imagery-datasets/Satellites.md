@@ -22,3 +22,14 @@
 
 
 ---
+
+---
+
+|:artificial_satellite: SPOT 6-7 | :round_pushpin: Франція |:camera: тип - Elevation10 DSM |роздільна здатність -  10 m | [:moneybag: заказ ](https://www.intelligence-airbusds.com/en/4871-ordering)|[:earth_americas:  приклад](https://www.kaggle.com/sergiishchus/spot-67-elevation10-dsm|
+
+<p align="center">
+  <img width="500" src="Example/dsm-10_basic_barcelona_thumbnail.jpeg">
+</p>
+
+
+---
