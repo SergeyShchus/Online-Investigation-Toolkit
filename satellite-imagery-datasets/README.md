@@ -4,6 +4,14 @@ List of aerial and satellite imagery datasets with annotations for computer visi
 
 ![](figures/header_img.jpg)  
 
+
+## Satellite search
+
+- [**Ocean Virtual Laboratory**](https://ovl.oceandatalab.com/)
+Search Sentinel-3 images. Download (finder) - [**Creodias**](https://finder.creodias.eu/)
+
+
+
 ## Recent additions and ongoing competitions
 
 - [**iSAID: Large-scale Dataset for Object Detection in Aerial Images**](https://captain-whu.github.io/iSAID/dataset.html) *(IIAI & Wuhan University, Dec 2019)*  
