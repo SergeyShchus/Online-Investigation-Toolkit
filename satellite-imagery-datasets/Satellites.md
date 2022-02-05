@@ -2,7 +2,7 @@
 
 -------
 
-|:artificial_satellite: Pleiades|:round_pushpin: Франція |:camera: тип - мультиспектральні| роздільна здатність - 0,5 - 2,8m | [:moneybag: заказ ](https://www.intelligence-airbusds.com/en/4871-ordering)| [:earth_americas:  приклад]()|
+|:artificial_satellite: Pleiades|:round_pushpin: Франція |:camera: тип - мультиспектральні| роздільна здатність - 0,5 - 2,8m | [:moneybag: заказ ](https://www.intelligence-airbusds.com/en/4871-ordering)| [:earth_americas:  приклад]|
 
 <p align="center">
   <img width="500" src="Example/cost_002.png">
