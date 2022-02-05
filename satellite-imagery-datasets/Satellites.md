@@ -2,7 +2,15 @@
 
 -------
 
-|:artificial_satellite: Pleiades|:round_pushpin: Франція |:camera: тип - мультиспектральні| роздільна здатність - 2,8m | [:moneybag: заказ ](https://www.intelligence-airbusds.com/en/4871-ordering)| [:earth_americas:  приклад]()|
+|:artificial_satellite: Pleiades|:round_pushpin: Франція |:camera: тип - мультиспектральні| роздільна здатність - 0,5 - 2,8m | [:moneybag: заказ ](https://www.intelligence-airbusds.com/en/4871-ordering)| [:earth_americas:  приклад]()|
+
+<p align="center">
+  <img width="500" src="Example/cost_002.png">
+</p>
+
+<p align="center">
+  <img width="500" src="Example/cost_001.png">
+</p>
 
 ---
 
@@ -23,12 +31,31 @@
 
 ---
 
----
 
-|:artificial_satellite: SPOT 6-7 | :round_pushpin: Франція |:camera: тип - Elevation10 DSM |роздільна здатність -  10 m | [:moneybag: заказ ](https://www.intelligence-airbusds.com/en/4871-ordering)|[:earth_americas:  приклад](https://www.kaggle.com/sergiishchus/spot-67-elevation10-dsm|
+|:artificial_satellite: SPOT 6-7 | :round_pushpin: Франція |:camera: тип - Elevation10 DSM |роздільна здатність -  10 m | [:moneybag: заказ ](https://www.intelligence-airbusds.com/en/4871-ordering)|[:earth_americas:  приклад](https://www.kaggle.com/sergiishchus/spot-67-elevation10-dsm)|
 
 <p align="center">
   <img width="500" src="Example/dsm-10_basic_barcelona_thumbnail.jpeg">
+</p>
+
+
+---
+
+
+|:artificial_satellite: Pléiades | :round_pushpin: Франція |:camera: тип - Panchromatic Stereopairs. Elevation 4 m |роздільна здатність -  4 m | [:moneybag: заказ ](https://www.intelligence-airbusds.com/en/4871-ordering)|[:earth_americas:  приклад](https://www.kaggle.com/sergiishchus/pliades-panchromatic-stereopairs-elevation-4-m)|
+
+<p align="center">
+  <img width="500" src="Example/lisbon-elevation4.jpeg">
+</p>
+
+
+---
+
+
+|:artificial_satellite: Pléiades | :round_pushpin: Франція |:camera: тип - PPléiades tri-stereo and mono |роздільна здатність -  0,5 m | [:moneybag: заказ ](https://www.intelligence-airbusds.com/en/4871-ordering)|[:earth_americas:  приклад](https://www.kaggle.com/sergiishchus/pliades-3d-textured-model-of-dubai-uae)|
+
+<p align="center">
+  <img width="500" src="Example/sample-data-3d-textured-model-dubae.jpeg">
 </p>
 
 
