@@ -623,6 +623,7 @@
  ## UAE :united_arab_emirates: 
 | Company                                                     | Office Size   | Focus                                  | Address (Click)                                                                                                                |
 |:------------------------------------------------------------|:--------------|:---------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------|
+| [Geospatial initiative - Public site](https://geodubai.dm.gov.ae/en/Pages/AboutGeoDubai.aspx) |     | :earth_americas: EO: All-purpose       | |
 | [4 Earth Intelligence](https://www.4earthintelligence.com/) | S (B)         | :earth_americas: EO: All-purpose       | [:round_pushpin: Abu Dhabi](https://www.google.com/maps/search/The+Offices+World+Trade+Center,+Hamdan+Street,+Abu+Dhabi,+UAE+) |
 | [Pix4D](https://pix4d.com)                                  | S (B)         | :airplane: Photogrametry software, UAV | [:round_pushpin: Mohammed Bin Zayed City](https://www.google.com/maps/search/Injazat+Building,+Mohammed+Bin+Zayed+City,+UAE+)  | 
 
