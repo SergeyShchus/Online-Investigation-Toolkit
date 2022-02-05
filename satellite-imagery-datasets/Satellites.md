@@ -93,3 +93,24 @@
 
 
 ---
+
+
+
+|:artificial_satellite: MAXAR | :round_pushpin: USA|:camera: мультіспектральна |роздільна здатність -  0,15 m | [:moneybag: заказ ](https://discover.digitalglobe.com/)|[:earth_americas:  приклад ](https://earthnow.usgs.gov/observer/)|
+
+<p align="center">
+  <img width="500" src="Example/maxar.jpeg">
+</p>
+
+<p align="center">
+  <img width="500" src="Example/HD_15cm_Cars.jpeg">
+</p>
+
+<p align="center">
+  <img width="500" src="Example/HD_15cm_City.jpeg">
+</p>
+
+<p align="center">
+  <img width="500" src="Example/HD_15cm_Ship.jpeg">
+</p>
+---
