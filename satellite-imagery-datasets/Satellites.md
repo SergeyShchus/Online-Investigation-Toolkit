@@ -3,7 +3,7 @@
 ## Ціни
 [:moneybag: мультиспектральні та високої роздільної здатності](https://github.com/SergeyShchus/Online-Investigation-Toolkit/blob/master/satellite-imagery-datasets/Example/Apollo_Mapping_Imagery_Price_List.pdf)
 
-[:moneybag: Моделі рельєфу](hhttps://github.com/SergeyShchus/Online-Investigation-Toolkit/blob/master/satellite-imagery-datasets/Example/ApolloMapping_DEM_Price_List_Product_Spec.pdf)
+[:moneybag: Моделі рельєфу](https://github.com/SergeyShchus/Online-Investigation-Toolkit/blob/master/satellite-imagery-datasets/Example/ApolloMapping_DEM_Price_List_Product_Spec.pdf)
 
 
 ## Супутники
