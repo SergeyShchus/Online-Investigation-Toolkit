@@ -60,3 +60,36 @@
 
 
 ---
+
+
+
+|:artificial_satellite: Sentinel-1 | :round_pushpin: ЄС|:camera: тип - активний сенсор (радар) |роздільна здатність -  20 m | [:free: заказ ](https://www.esa.int/)|[:earth_americas:  приклад](https://upload.wikimedia.org/wikipedia/commons/4/46/Lake_Success%2C_California_ESA373671.jpg)|
+
+<p align="center">
+  <img width="500" src="Example/sentinel-1.jpeg">
+</p>
+
+
+---
+
+
+
+|:artificial_satellite: Sentinel-2 | :round_pushpin: ЄС|:camera: мультіспектральна |роздільна здатність -  10 m | [:free: заказ ](https://www.esa.int/)|[:earth_americas:  приклад](https://upload.wikimedia.org/wikipedia/commons/7/72/Lake_Balaton_Hungary%281%29.jpg)|
+
+<p align="center">
+  <img width="500" src="Example/sentinel-2.jpeg">
+</p>
+
+
+---
+
+
+
+|:artificial_satellite: Landsat-8 | :round_pushpin: NASA|:camera: мультіспектральна |роздільна здатність -  30 m | [:free: заказ ](https://www.esa.int/)|[:earth_americas:  приклад (у реальному часі)](https://earthnow.usgs.gov/observer/)|
+
+<p align="center">
+  <img width="500" src="Example/Landsat-8.jpeg">
+</p>
+
+
+---
