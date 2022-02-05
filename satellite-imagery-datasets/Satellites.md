@@ -108,7 +108,7 @@
 
 
 
-|:artificial_satellite: MAXAR | :round_pushpin: USA|:camera: мультіспектральна |роздільна здатність -  0,15 m | [:moneybag: заказ ](https://discover.digitalglobe.com/)|[:earth_americas:  приклад ](https://earthnow.usgs.gov/observer/)|
+|:artificial_satellite: MAXAR | :round_pushpin: USA|:camera: мультіспектральна |роздільна здатність -  0,15 m | [:moneybag: заказ ](https://discover.digitalglobe.com/)|[:earth_americas:  приклад ](https://www.kaggle.com/sergiishchus/maxar-satellite-data)|
 
 <p align="center">
   <img width="500" src="Example/maxar.jpeg">
