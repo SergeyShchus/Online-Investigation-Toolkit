@@ -34,7 +34,7 @@
 </p>
 ---
 
-|:artificial_satellite: SPOT 6-7 | :round_pushpin: Франція |:camera: тип - активний сенсор (радар)|роздільна здатність -  0,7m | [:moneybag: заказ ](https://www.intelligence-airbusds.com/en/4871-ordering)|[:earth_americas:  приклад](www.kaggle.com/dataset/e893289607433768925849896b7a269f02d9c170ef7e755fee461f128ea2d987)|
+|:artificial_satellite: SPOT 6-7 | :round_pushpin: Франція |:camera: тип - активний сенсор (радар)|роздільна здатність -  0,7m | [:moneybag: заказ ](https://www.intelligence-airbusds.com/en/4871-ordering)|[:earth_americas:  приклад](https://www.kaggle.com/sergiishchus/pliades-neo-radar-spain-barcelona-ori-se)|
 
 <p align="center">
   <img width="500" src="Example/r2524_90_va_ori_barcelona_thumbnail.jpeg">
