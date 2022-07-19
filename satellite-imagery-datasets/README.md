@@ -10,7 +10,11 @@ List of aerial and satellite imagery datasets with annotations for computer visi
 - [**Ocean Virtual Laboratory**](https://ovl.oceandatalab.com/)
 Search Sentinel-3 images. Download (finder) - [**Creodias**](https://finder.creodias.eu/)
 
-- [**Earthdata Search**](https://search.earthdata.nasa.gov/search?p=!C2021957295-LPCLOUD&pg[1][v]=t&pg[1][m]=download&sp[0]=29.30273%2C49.30288&qt=2014-12-03T11%3A12%3A06.556Z%2C2022-09-20T01%3A19%3A39.850Z&ff=Available%20from%20AWS%20Cloud!Map%20Imagery&lat=49.05890008418784&long=28.7841796875&zoom=7)
+- [**Earthdata Search**](https://scihub.copernicus.eu/dhus/#/home)
+Search Sentinel-1 images.
+
+
+- [**Copernicus Open Access Hub**](https://search.earthdata.nasa.gov/search?p=!C2021957295-LPCLOUD&pg[1][v]=t&pg[1][m]=download&sp[0]=29.30273%2C49.30288&qt=2014-12-03T11%3A12%3A06.556Z%2C2022-09-20T01%3A19%3A39.850Z&ff=Available%20from%20AWS%20Cloud!Map%20Imagery&lat=49.05890008418784&long=28.7841796875&zoom=7)
 Search Sentinel, Landsat, Modis images.
 
 - [**Image Hunter**](https://imagehunter.apollomapping.com)
