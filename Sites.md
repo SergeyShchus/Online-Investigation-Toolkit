@@ -16,3 +16,5 @@
 - :earth_americas: [**Gliffy**](https://www.gliffy.com/)
 
 - :earth_americas: [**Visio**](https://www.microsoft.com/uk-ua/microsoft-365/visio/flowchart-software)
+
+- :earth_americas: [**Kelper**](https://kepler.gl/) OS-Platform for create free geospatial vis
